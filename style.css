@@ -1,0 +1,22 @@
+@media only screen and (max-width: 480px) {
+    div {
+        background-color: lightcoral;
+        font-size: 17px;
+    }
+}
+
+
+
+@media only screen and (min-width: 481px) {
+    div {
+        background-color: turquoise;
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    div{
+        background-color: yellowgreen;
+        font-size: 14px;
+    }
+}
